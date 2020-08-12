@@ -41,4 +41,10 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 -->
 
-[website]: https://codeSTACKr.com
+[website]: https://rickarddahlstrom.com
+
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-heroku-original colored"></i>
