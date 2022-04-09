@@ -5,7 +5,7 @@
 ### Hi there, I'm Rick, a trained developer with focus on Front End Development 👋
 
 ## I'm Front End Developer with more than 6 years work experience!
-- 🔭 I’m currently working on a vocabulary trainer [Vokoru][https://vokoru.com]!
+- 🔭 I’m currently working on a vocabulary trainer [Vokoru](https://vokoru.com) and a [money-tracking-app](https://track-my-money.netlify.app/)!
 - 🌱 I’m currently upskilling on Angular, PWA, RxJS, Vanilla JS, three.js GSAP, Ramda, and more  🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 - 🥅 2020 Goals: To upskill as much as I can.
