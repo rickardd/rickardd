@@ -42,4 +42,7 @@
 - [Vokoru](https://vokoru.com) - Vacabulary trainer. (Angular and Ruby on Rails)
 - Raccoon.js, [NPM](https://www.npmjs.com/package/raccoon-js-framework), [Documentation](https://master--racccoon-docs.netlify.app/) - Experimental js framework inspired by Vue. (Vanilla JS)
 - [money-tracking-app](https://track-my-money.netlify.app/) - Categorise your spending based on your bank transactions. (React)
+- [Super Mario](https://master--ricks-super-mario.netlify.app/) - Just for fun. (Vanilla JS)
+- [Serpient](https://brave-thompson-9d767f.netlify.app/) - Experiment with the old Nokia snake game. (Vanilla JS)
+
 
