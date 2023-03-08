@@ -42,8 +42,10 @@
 - [Vokoru](https://vokoru.com) - Vacabulary trainer. (Angular and Ruby on Rails)
 - Raccoon.js, [NPM](https://www.npmjs.com/package/raccoon-js-framework), [Documentation](https://master--racccoon-docs.netlify.app/) - Experimental js framework inspired by Vue. (Vanilla JS)
 - [3D Text animtaion with music](https://main--3d-text-hnry.netlify.app/)
-- [money-tracking-app](https://track-my-money.netlify.app/) - Categorise your spending based on your bank transactions. (React)
 - [Super Mario](https://master--ricks-super-mario.netlify.app/) - Just for fun. (Vanilla JS)
+- [money-tracking-app](https://track-my-money.netlify.app/) - Categorise your spending based on your bank transactions. (React)
+- [23 designpatterns](https://github.com/rickardd/23-design-patterns) - An attempt to write 23 desing patterns in Typscript. (JS and TypeScript)
 - [Serpient](https://brave-thompson-9d767f.netlify.app/) - Experiment with the old Nokia snake game. (Vanilla JS)
+
 
 
