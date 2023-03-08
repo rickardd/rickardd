@@ -37,7 +37,7 @@
 - Be There - Client-responsible, Frontend, DesignerClient-responsible, Frontend, Designer 
   - Jun 2009 - Jun 2010
 
-**Side Projects**
+**Some Side Projects** (Mostly silly exprimental)
 
 - [Vokoru](https://vokoru.com) - Vacabulary trainer. (Angular and Ruby on Rails)
 - Raccoon.js, [NPM](https://www.npmjs.com/package/raccoon-js-framework), [Documentation](https://master--racccoon-docs.netlify.app/) - Experimental js framework inspired by Vue. (Vanilla JS)
