@@ -43,9 +43,11 @@
 - **Raccoon.js** repo, [NPM](https://www.npmjs.com/package/raccoon-js-framework), [Documentation](https://master--racccoon-docs.netlify.app/) - Experimental js framework inspired by Vue. (Vanilla JS)
 - **3D Text animtaion with music** repo, [website](https://main--3d-text-hnry.netlify.app/)
 - **Super Mario** repo, [website](https://master--ricks-super-mario.netlify.app/) - Just for fun. (Vanilla JS)
+- **CSS 3D cube and stuff**, [website](https://codepen.io/Rickii/pen/qBmmPoQ)
+- **CSS 3D About us page**, [website](https://codepen.io/Rickii/pen/oNWQByQ)
 - **Track my money** repo, [website](https://track-my-money.netlify.app/) - Categorise your spending based on your bank transactions. (React)
-- **23 designpatterns** [repo](https://github.com/rickardd/23-design-patterns) - An attempt to write 23 desing patterns in Typscript. (JS and TypeScript)
-- **Serpient** [website](https://brave-thompson-9d767f.netlify.app/) - Experiment with the old Nokia snake game. (Vanilla JS)
+- **23 designpatterns**, [repo](https://github.com/rickardd/23-design-patterns) - An attempt to write 23 desing patterns in Typscript. (JS and TypeScript)
+- **Serpient**, [website](https://brave-thompson-9d767f.netlify.app/) - Experiment with the old Nokia snake game. (Vanilla JS)
 - **3D earth visualisation**, [repo](https://github.com/rickardd/Earth3D), website - A three.js experiment.(Vanilla JS, Three.js)
 - **Pokerrithem**, [repo](https://github.com/rickardd/pokerithem), [website](https://pokerithem.herokuapp.com/) - A poker program where each player is an algorithm. You write your algorithm to beat your opponents. (Ruby)
 
