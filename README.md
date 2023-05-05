@@ -41,7 +41,7 @@
 
 - **Vokoru**, private repo, [website](https://vokoru.com) - Vacabulary trainer. (Angular and Ruby on Rails)
 - **Raccoon.js** repo, [NPM](https://www.npmjs.com/package/raccoon-js-framework), [Documentation](https://master--racccoon-docs.netlify.app/) - Experimental js framework inspired by Vue. (Vanilla JS)
-- **3D Text animtaion with music** repo, [website](https://main--3d-text-hnry.netlify.app/)
+- **3D Text animtaion with music** repo, [website](https://main--3d-text-hnry.netlify.app/) (Three.js)
 - **Super Mario** repo, [website](https://master--ricks-super-mario.netlify.app/) - Just for fun. (Vanilla JS)
 - **CSS 3D cube and stuff**, [website](https://codepen.io/Rickii/pen/qBmmPoQ)
 - **CSS 3D About us page**, [website](https://codepen.io/Rickii/pen/oNWQByQ)
